@@ -7,6 +7,7 @@
 updown.aufとupdown.iniをexedit.aufと同じフォルダ、またはpluginsフォルダに入れます
 ### 設定方法
 - updown.iniを編集します
+- updown.iniはAviUtl起動時に読み込まれ、あまり意味はありませんが終了時に保存します
 - [Default]が通常クリック時、[Shift]がShift+クリック時の設定です
 - scale_0が整数、scale_0.0が小数部一桁、scale_0.00が小数部二桁まである項目での設定値です
 - 変動値を設定した数だけ乗算します
