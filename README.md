@@ -4,7 +4,7 @@
 ### 動作環境
 拡張編集バージョン0.92のみ対応
 ### 導入方法
-updown.aufとupdown.iniをexedit.aufと同じフォルダ、またはpluginsフォルダに入れます
+updown.aufとupdown.iniをaviutl.exeと同じフォルダ、またはpluginsフォルダに入れます
 ### 設定方法
 - updown.iniを編集します
 - updown.iniはAviUtl起動時に読み込まれ、あまり意味はありませんが終了時に保存します
